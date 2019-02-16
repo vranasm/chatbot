@@ -1,1 +1,1 @@
-java -jar ChatBot.jar
+java -jar dist/ChatBot.jar
